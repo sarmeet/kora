@@ -1,0 +1,17 @@
+.halftone_bg {
+    background-image: url("../img/halftone.png");
+    background-repeat: repeat;
+}
+
+.wood_bg {
+    background-image: url("../img/Melamine-wood-003.png");
+    background-repeat: repeat;
+}
+
+.padded_10 {
+    padding: 10px;
+}
+
+h5.left {
+    margin-right: 1rem;
+}
