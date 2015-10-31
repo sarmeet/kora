@@ -4,7 +4,10 @@
 
 
 
-function grab_element(name){
+function grab_element_create_canvas(name){
+    $(name).append("hwlloooo")
 
 }
 
+
+grab_element_create_canvas("#instrument");
